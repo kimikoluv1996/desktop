@@ -1,0 +1,2 @@
+WIN_WID = 400
+WIN_HI = 400
